@@ -1,4 +1,4 @@
-ODE-NAR G2P Map
+ODE-NAR G2P Map | 
 Interactive Evolutionary Dynamics Simulator
 This app simulates the evolution of a population where an ODE-NAR system controls the G2P map By adjusting the parameters on the left, you can explore how different factors od the ODE influence the fitness landscape and the distribution of phenotypes within the population.
 
